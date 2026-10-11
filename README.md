@@ -2,7 +2,7 @@
 
 Davidson Open University Global
 
-These are the eight practical lab notebooks for **CSC 203 Discrete Structures**. Each lab goes with one Study Session in the Moodle course. You run them in your web browser with **Google Colab** (free, nothing to install) or on your **lab virtual machine (VM)**.
+These are the eight practical lab notebooks for **CSC 203 Discrete Structures**. Each lab goes with one Study Session in the Moodle course. You run them in your web browser with **Google Colab** (free, nothing to install) or offline on your own computer with **Jupyter**.
 
 ## The labs
 
@@ -25,20 +25,16 @@ These are the eight practical lab notebooks for **CSC 203 Discrete Structures**.
 4. Complete the **Your turn** exercises. When you finish, save again (**File → Save a copy in GitHub**) with a short message such as `Lab 1 completed`.
 5. Submit what your tutor asks for in Moodle.
 
-## How to do a lab on your lab VM
+## How to do a lab offline (no data needed)
 
-1. Start and connect to your VM (see **Your Lab VM** in the Moodle course).
-2. Open a terminal and run:
-   ```
-   git clone https://github.com/Davidson-Open-University/csc203-labs.git
-   cd csc203-labs
-   jupyter lab
-   ```
-3. Open the lab in the `notebooks` folder, work through it, then save your copy to your own `csc203-labs` repository.
+1. Install **Anaconda** (or Python + `pip install notebook numpy sympy networkx`) once, on Wi-Fi. See **Low-Data and Offline Study Options** in the Moodle course.
+2. Download this repository: green **Code** button → **Download ZIP**, then unzip it.
+3. Start **Jupyter Notebook**, open the lab from the `notebooks` folder and work through it.
+4. When you are back online, upload your saved notebook to **your own** `csc203-labs` repository with **Add file → Upload files**.
 
 ## Help
 
-If a notebook will not open or run, post in the course **Q&A forum** in Moodle, saying which lab and what you see. Colab is the back-up if your VM is unavailable.
+If a notebook will not open or run, post in the course **Q&A forum** in Moodle, saying which lab and what you see. 
 
 ---
 © Davidson Open University Global. For CSC 203 students.
