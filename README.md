@@ -17,12 +17,23 @@ These are the eight practical lab notebooks for **CSC 203 Discrete Structures**.
 | Lab 7: Counting by Computer | Study Session 7: Applications to Counting | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidson-Open-University/csc203-labs/blob/main/notebooks/CSC203-Lab7-Counting-by-Computer.ipynb) |
 | Lab 8: Probability Generating Functions with SymPy | Study Session 8: Discrete Probability Generating Function | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidson-Open-University/csc203-labs/blob/main/notebooks/CSC203-Lab8-Probability-Generating-Functions-with-SymPy.ipynb) |
 
+## What is in each lab
+
+Each lab takes **about an hour** and has four parts:
+
+- **Part A – Explore:** run worked examples and read short explanations.
+- **Part B – Practise:** fill in the blanks (`...`) and run the **self-check** under each one. ✅ means correct, ❌ gives you a hint, and ⏳ means the blank is not filled yet. The checks never reveal the answer.
+- **Part C – Build a tool:** complete a short Python function and test it.
+- **Part D – Apply and reflect:** use your tools on your own example (this prepares you for the assignment) and answer short reflection questions.
+
+Run the first code cell (**"Run this cell first"**) before anything else: it sets up the self-checks.
+
 ## How to do a lab in Google Colab
 
 1. Click the **Open in Colab** button for the lab. Sign in with your Google account if asked.
 2. Choose **File → Save a copy in GitHub** and save it to **your own** `csc203-labs` repository. (Do this first, so your work is saved under your account. You cannot save changes to this course repository.)
 3. Run each code cell in order with **Shift + Enter**. Read the explanation above each cell before you run it.
-4. Complete the **Your turn** exercises. When you finish, save again (**File → Save a copy in GitHub**) with a short message such as `Lab 1 completed`.
+4. Work through Parts A–D, using the self-checks as you go. When you finish, save again (**File → Save a copy in GitHub**) with a short message such as `Lab 1 completed`.
 5. Submit what your tutor asks for in Moodle.
 
 ## How to do a lab offline (no data needed)
