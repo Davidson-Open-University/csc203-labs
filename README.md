@@ -1,6 +1,6 @@
 # CSC 203 · Discrete Structures — Lab Notebooks
 
-Davidson Open University Global
+Davidson Open University
 
 These are the eight practical lab notebooks for **CSC 203 Discrete Structures**. Each lab goes with one Study Session in the Moodle course. You run them in your web browser with **Google Colab** (free, nothing to install) or offline on your own computer with **Jupyter**.
 
@@ -48,4 +48,4 @@ Run the first code cell (**"Run this cell first"**) before anything else: it set
 If a notebook will not open or run, post in the course **Q&A forum** in Moodle, saying which lab and what you see. 
 
 ---
-© Davidson Open University Global. For CSC 203 students.
+© Davidson Open University. For CSC 203 students.
